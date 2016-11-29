@@ -17,7 +17,7 @@ For a complete list, see my [GitHub](https://github.com/alexanderwjrussell?tab=r
 | Project   | Description | Technologies | Group Size | Time to Complete |
 |---        |---          |---           |---         |---               |
 | [Final Project](address) | <description goes here> | <technologies go here> | <group size goes here> | 2 weeks |
-| [BOOM Trainig WebApp](https://github.com/alexanderwjrussell/boom_training_webapp) | A webapp for gym users who wish to train in groups or pairs. Users have a profile from which they can book training sessions; join groups; join other sessions; and rate each session | Ruby on Rails, HTML, SASS, RSpec/Capybara, Active Records | 6 Members | 1 week |
+| [BOOM Training WebApp](https://github.com/alexanderwjrussell/boom_training_webapp) | A webapp for gym users who wish to train in groups or pairs. Users have a profile from which they can book training sessions; join groups; join other sessions; and rate each session | Ruby on Rails, HTML, SASS, RSpec/Capybara, Active Records | 6 Members | 1 week |
 | [News App](https://github.com/alexanderwjrussell/news-summary-project) | A single page webapp which utilises 2 API's to get the latest news stories and summarise them | JavaScript, HTML, XML | 2 Members | 1 day |
 | [MakersBnB](https://github.com/alexanderwjrussell/makers_bnb) | An AirBnB clone built with very lightweight framework | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 Members | 1 week |
 
