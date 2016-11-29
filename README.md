@@ -25,7 +25,9 @@ For a complete list, see my [GitHub](https://github.com/alexanderwjrussell?tab=r
 
 #### Excellent communicator
 
-During my time as a Physics teacher, I had to deliver complex material to students in a number of different ways utilising multiple techniques to ensure maximum learning could be achieved. Also, during my time working as a mechanical engineer, teamwork was a huge part. In order for teams to work effectively communication was vital. Being often given the task of team leader it fell to me to distribute work and ensure tasks were clearly defined and maintained.
+As a Physics teacher, I had to deliver complex material to students in a way that they would each understand, often having to change tactic mid lesson in order to ensure maximum learning could be achieved. 
+
+I also have experience of working in a team through my education in mechanical engineering. Many of the tasks were team oriented and I would regularly be assigned as the team leader. This meant that it was my responsibility to distribute work and ensure that the tasks were clearly communicated.
 
 #### Thrives under pressure
 
