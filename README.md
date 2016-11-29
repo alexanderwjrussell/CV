@@ -48,7 +48,7 @@ As a Physics graduate who specialised in the theoretical Physics it was often re
 
 #### Makers Academy (Sept '16 - Dec '16)
 
-A 16-week intensive development bootcamp, focusing on :
+A 12-week intensive development bootcamp, focusing on :
 
 - Agile methodologies
 - Object-oriented design
