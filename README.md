@@ -1,6 +1,6 @@
 # Alexander Russell
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/alexander-russell)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://uk.linkedin.com/in/alexander-russell-086366132)
 
 I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge. My background combines creativity with a high level of technical knowledge and I love bringing these traits into my coding. I am passionate about writing code that is clean, tested and reusable utilising the SOLID principals.
 
@@ -83,4 +83,4 @@ A 16-week intensive development bootcamp, focusing on :
 ## Hobbies and Interests
 - **Rock Climbing** : To stretch out after a day at the computer.
 - **Board Gaming** : To socialise with friends
-- **Tinkering** : Enjoy fixing ANYTHING especially anything with an engine! 
+- **Tinkering** : Enjoy fixing ANYTHING especially anything with an engine!
