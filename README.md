@@ -53,8 +53,9 @@ As a Physics graduate who specialised in the theoretical Physics it was often re
 A 12-week intensive development bootcamp, focusing on :
 
 - Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
+- OO programming
+- TDD
+- BDD
 - Pair programming
 - XP values
 
