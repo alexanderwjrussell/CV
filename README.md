@@ -80,7 +80,7 @@ A 12-week intensive development bootcamp, focusing on :
 **West Grantham Academies - St Hugh's** (Feb '15 - Sept '16')    
 *Head Science Technician*  
 
-**Travail Education** (Jul '11 - Feb '15)    
+**Travail Education** (Jul '12 - Feb '15)    
 *Teacher of Science - Physics*  
 
 ## Hobbies and Interests
