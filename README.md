@@ -60,13 +60,13 @@ A 12-week intensive development bootcamp, focusing on :
 
 - BSc Rehabilitation Engineering (Mechanical Engineering)
 
-#### Loughborough University (Oct '08 - Jun '09
+#### Loughborough University (Oct '08 - Jun '09)
 
 - BEd  PGCE in Secondary Sciences with Physics
 - Qualified Teacher of Science
 - Additional responsibilities: Roleplaying and Wargames Society (Anime Secretary)
 
-#### Loughborough University (Oct '05 - Jun '08
+#### Loughborough University (Oct '05 - Jun '08)
 
 - BSc Physics
 - Additional modules: Engineering Computation (MATLAB, C++, Maple10)
