@@ -18,7 +18,7 @@ For a complete list, see my [GitHub](https://github.com/alexanderwjrussell?tab=r
 |---        |---          |---           |---         |---               |
 | [Street Party WebApp](https://github.com/alexanderwjrussell/street-party) | A webapp to help people organise street parties. Users have a profile from which they can create new parties; create new party related tasks; complete tasks ;and join other peoples parties | Meteor, Blaze, MongoDB, Stylus  | 6 Members| 6 days |
 | [BOOM Training WebApp](https://github.com/alexanderwjrussell/boom_training_webapp) | A webapp for gym users who wish to train in groups or pairs. Users have a profile from which they can book training sessions; join groups; join other sessions; and rate each session | Ruby on Rails, HTML, SASS, RSpec/Capybara, Active Records | 6 Members | 1 week |
-| [News App](https://github.com/alexanderwjrussell/news-summary-project) | A single page webapp which utilises 2 API's to get the latest news stories and summarise them | JavaScript, HTML, XML | 2 Members | 1 day |
+| [Roman Numerals Calculator](https://github.com/alexanderwjrussell/RomanNumerals-CS) | A simple piece of software which can output the value of 2 roman numerals added together | C#, NUnit | 1 Member | 1 hour |
 | [MakersBnB](https://github.com/alexanderwjrussell/makers_bnb) | An AirBnB clone built with very lightweight framework | Ruby, Sinatra, RSpec/Capybara PostgreSQL | 4 Members | 1 week |
 
 ## Skills
