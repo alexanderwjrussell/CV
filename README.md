@@ -1,33 +1,31 @@
 # Alexander Russell
 
-[Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Qualifications](#qualifications) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ali-russell-086366132/)
+[Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Qualifications](#qualifications) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ali-russell-086366132/)
 
-I am an energetic and ambitious Full Stack Software Engineer specialising in Back End. My background combines creativity with a high level of technical knowledge and I love bringing these traits into my coding. I am passionate about writing code that is clean, tested and reusable utilising the SOLID principles.
+I am a highly skilled and versatile Full Stack Software Engineer with a strong focus on back-end development, cloud architecture, and integration solutions. Over my career, I have delivered high-impact projects across industries, leading teams, designing scalable systems, and championing engineering best practices such as TDD, BDD, and SOLID principles. My expertise spans AWS, .NET, and microservices, with a proven track record of driving innovation, improving operational efficiency, and ensuring technical excellence from concept through to production. I thrive in collaborative environments, bridging technical and business needs while maintaining a relentless focus on quality, maintainability, and performance.
 
-## Key Technical Skill
+## Key Technical Skills
 
-C#, .NET 5.0, .NET Core 3.1, .NET Framework 4.8, JavaScript, nodeJS, React (limited), Design Patterns, Test Driven Development, Behaviour Driven Development, Agile Development, AWS, Docker, Microservices, MongoDB, Git, Github
+**Languages & Frameworks:** C#, .NET 8.0, .NET 6.0 / 5.0 / Core 3.1 / Framework 4.8, Node.js, JavaScript, GraphQL  
+**Cloud & DevOps:** AWS (DynamoDB, SNS, SQS, API Gateway, SAM), Azure (DevOps, Containers, CosmosDB, ServiceBus),Terraform, Docker, CI/CD pipelines  
+**Architectural Practices:** Microservices, Design Patterns, SOLID principles  
+**Testing & Quality:** Test-Driven Development (TDD), Behaviour-Driven Development (BDD), Unit / Component / Integration Testing  
+**Databases & Integrations:** MongoDB, Salesforce Integration, Outlook Integration, Payment Provider APIs  
+**Version Control & Collaboration:** Git, GitHub, Agile / Scrum
 
 ## Skills
 
-### Excellent communicator
+### Technical Leadership & Collaboration
+Experienced in leading high-performing teams, providing architectural guidance, and setting development standards. Adept at fostering knowledge-sharing through workshops, mentoring, and hands-on collaboration. Proven ability to manage complex technical challenges while aligning solutions with business objectives.
 
-I have run a number of workshops for TDD and BDD. All attendees are now much stronger advocates for its use and implement it in their daily development.
+### Cloud & Integration Expertise
+Extensive hands-on experience with AWS services and cloud deployment pipelines across multiple environments (DEV, UAT, PROD). Skilled in delivering robust integrations with third-party systems including payment providers, Salesforce, and Outlook, ensuring seamless interoperability and long-term maintainability.
 
-As a former Physics teacher, I had to deliver complex material to students in a way that they would each understand, often having to change tactic mid lesson in order to ensure maximum learning could be achieved.
+### Quality-Driven Development
+Strong advocate for engineering best practices, embedding TDD and BDD into team workflows to ensure robust, maintainable, and defect-resistant codebases. Highly experienced in writing comprehensive unit, component, and integration tests to validate functionality and accelerate delivery.
 
-### Thrives under pressure
-
-From having to complete huge cross team projects with very tight deadlines, to organising multiple year group school trips consisting of hundreds of students, I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
-
-### Fast learner
-
-Software development is a very fast paced environment in which you have to learn quickly or risk being left behind. I pride myself in being able to pick up material quickly and apply it to real world situations. When at Makers Academy for the [Thermostat project](https://github.com/alexanderwjrussell/thermostatJS) it was required to learn JavaScript, CSS and Jasmine test framework in 1 week without aid from the course leader.
-
-### Analytical thinker
-
-As a Physics graduate who specialised in the theoretical Physics it was often required to analyse data and hypothesise the reasoning as to any emerging patterns. Also, from my background in mechanical engineering it is often required to think around a problem and develop solutions based on materials available at hand.
-
+### Communication & Stakeholder Engagement
+Confident in presenting complex technical concepts to both technical and non-technical audiences, ensuring clear understanding and alignment. Skilled at working with cross-functional teams, managing expectations, and delivering solutions that meet both technical and strategic requirements.
 ## Experience
 
 ### Amido / Ensono Digital (Dec '21 - present)
