@@ -1,6 +1,6 @@
 # Alexander Russell
 
-[Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://uk.linkedin.com/in/alexander-russell-086366132)
+[Key Technical Skill](#key-technical-skills) | [Skills](#skills) | [Experience](#experience) | [Qualifications](#qualifications) | [Education](#education) |  [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/ali-russell-086366132/)
 
 I am an energetic and ambitious Full Stack Software Engineer specialising in Back End. My background combines creativity with a high level of technical knowledge and I love bringing these traits into my coding. I am passionate about writing code that is clean, tested and reusable utilising the SOLID principles.
 
@@ -30,7 +30,31 @@ As a Physics graduate who specialised in the theoretical Physics it was often re
 
 ## Experience
 
-### CompareTheMarket (Feb '17 - present)
+### Amido / Ensono Digital (Dec '21 - present)
+
+#### .NET Consultant
+
+Over the past few years at Ensono, I have consistently delivered high-impact technical solutions, demonstrated strong leadership, and driven innovation across multiple projects. My work has spanned cloud architecture, application development, DevOps, and stakeholder engagement, with a proven ability to lead initiatives from concept to production.
+
+A key highlight has been my contributions to the Verisk project, where I designed and implemented the Notification Sub-System and established the foundational skeleton projects for all Verisk lambdas. I also defined a consistent testing approach and framework, enabling long-term maintainability. My technical expertise has been particularly evident in my extensive use of AWS services such as DynamoDB, SNS, SQS, and API Gateway, as well as my proficiency with AWS SAM and Terraform to deliver multi-environment deployments.
+
+I have embraced leadership roles when needed, such as stepping in as Tech Lead for the Stacks Cycle 15 project, guiding the team through complex technical challenges, and ensuring strategic alignment. I have also driven innovation through initiatives like the .NET Aspire Hackathon, promoting knowledge-sharing and exploring new technologies, and the creation of the SRE Backlog Grooming service, which improved prioritisation and operational efficiency.
+
+My portfolio also includes successful delivery of high-visibility integrations, such as leading the Okta migration with clear architectural design and cross-functional collaboration, developing the Slack Meeting App with Outlook integration to streamline scheduling, and architecting the Slack Timesheet App with Salesforce integration to enhance time-tracking efficiency. Earlier, I played a pivotal role in the Next PDP Phase 1 project, rapidly mastering GraphQL to develop the Aggregator component and serving as the subject matter expert across multiple teams.
+
+Throughout these projects, I have demonstrated a balance of deep technical capability, effective communication, and leadership—ensuring that solutions are not only technically robust but also aligned with business goals and stakeholder needs.
+
+### Imburse (Oct '21 - Dec '21)
+
+#### Senior Software Engineer
+
+At Imburse, I led a small, high-performing team delivering partner integrations with multiple payment providers, designing and implementing custom adapters to ensure seamless compatibility and performance. By balancing hands-on development with strategic oversight, I successfully delivered complex integrations on time and to specification, directly enabling expanded payment capabilities for the business.
+
+I drove the adoption of Test-Driven Development (TDD) and Behaviour-Driven Development (BDD) across our codebases, establishing a rigorous testing culture. By implementing comprehensive unit and component tests, I significantly reduced defects, improved system reliability, and accelerated release cycles. These practices became embedded in the team's workflow, ensuring long-term maintainability and stability of our integration solutions.
+
+### CompareTheMarket (Feb '17 - Sept '21)
+
+#### Junior - Senior Software Engineer
 
 I joined Compare the Market in February 2017 following graduation from Makers Academy where I retrained as a Junior Software Engineer. During my time at Compare the Market, I have been known as an outgoing, caring individual with an emphasis on Software Engineering best practices and collaboration across teams.
 
@@ -40,13 +64,18 @@ In the early days of the Code Club I co-hosted the Nassington School Code Club d
 
 During my time at CTM, I have gained experience in several languages and disciplines, most notably C#, .NET Core, .NET 5.0, NodeJS, Docker and I am a keen advocate of TDD, pairing and the SOLID principles.
 
-### West Grantham Academies - St Hugh's (Feb '15 - Sept '16')
+## Qualifications
 
-**Head Science Technician**
+### Azure
 
-### Travail Education (Jul '12 - Feb '15)
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure Data Fundamentals (DP-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft Certified: Azure Developer Associate (AZ-204)
 
-**Teacher of Science - Physics**
+### AWS
+
+- AWS Certified Cloud Practitioner
 
 ## Education
 
